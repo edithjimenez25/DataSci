@@ -1,2 +1,2 @@
-# DataSci-
+# DataSci
 DataScience
